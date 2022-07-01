@@ -1,0 +1,5 @@
+- hiking
+- good food
+- reading
+  - books
+  - magazines
